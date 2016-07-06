@@ -29,6 +29,7 @@ Hemos preparado el anti-programa, no sabemos que pasará cada día, solo sabemos
 * pinhole camera obscura: sabes como hacer para pintar los objetos reales como si hicieras una foto? Crea tu propia caja mágica con cartón y empieza a dibujar todo!
 * hazte un pin para la chupa: usa silicona caliente y leds para hacer un pin que brilla en la obscuridad
 * crea tu propio monedero: el dinero no se lleva, pero siempre puedes tener tu propio monedero reciclando una caja de leche. Para más emoción, imprimete una cadena con la impresora 3D para sujetar tu monedero al pantalón
+* lanza tu propia colección de muebles: crea una silla en la que pasar las tardes y una mesa donde merendar con los colegas
 
 ## el bicho
 
