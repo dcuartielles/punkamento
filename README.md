@@ -4,18 +4,17 @@ Campamento de verano liberario, auto-organizado y abierto orientado a niñ@s de 
 
 El contenido se organizará en función de las decisiones de los participantes cuyas edades van entre 8 y 10 años.
 
-## el bicho
+## UTOPIA - el espacio
 
-Todo buen barrio tiene un animal mitológico que persigue a los nenes en las noches y alimenta sus pesadillas de verano. En la Sagrera, donde se celebra el primer punkamento, hay rumores de que corre libre el pollocaca, un ser mutante resultado de años de vertidos químicos del bar de la esquina en la alcantarilla de enfrente de la mercería.
+Soko es un centro social no ocupado en el barrio de la Sagrera cuyo objetivo es ofrecer actividades educativas a las gentes del lugar.
 
-Nadie ha visto jamás al pollocaca, pero si los resultados de sus incursiones nocturnas a los cubos de basura de la plaza de la asamblea, los residuos radioactivos que distribuye por los jardines y las marcas de espolones en los retrovisores de los coches aparcados en doble fila.
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Factory.svg/502px-Factory.svg.png "fabrica de chocolate")
 
-Nosotros hemos decidido darle cara ... el pollocaca, según nuestra cultura de punks de whatsapp, es así:
-
-![alt text](https://raw.githubusercontent.com/dcuartielles/punkamento/master/images/380.png "pollo")
-![alt text](https://raw.githubusercontent.com/dcuartielles/punkamento/master/images/527.png "caca")
+Soko viene del país de Utopía, dónde la gente hace lo que siente y vive por lo que quiere. Todos los utópicos creemos en la liberación del conocimiento, en la creación para compartir y en la cultura del hazlo tu mismo.
 
 ## anti-programa
+
+Hemos preparado el anti-programa, no sabemos que pasará cada día, solo sabemos que algunas de las cosas en esta lista se llevarán a cabo:
 
 * haz tu propio cuaderno: documenta todo lo que hagas, el primer paso hacia la autonomía del conocimiento es ser dueño de lo que haces, si lo escribes ya es tuyo
 * diseña tu logo: el punkamento tiene su mascota (el pollocaca), pero quieres adoptarla? Crea tu propia mascota, expresate y plásmala en tu camiseta
@@ -28,3 +27,19 @@ Nosotros hemos decidido darle cara ... el pollocaca, según nuestra cultura de p
 * medialab: crea películas explicando como se hacen las cosas que aprendes cada día en el punkamento, aprende a publicarlas en internet (con permiso pa/materno)
 * heladolab: crea tus propios sabores de helado y pasalos al resto de los amigos del punkamento
 * pinhole camera obscura: sabes como hacer para pintar los objetos reales como si hicieras una foto? Crea tu propia caja mágica con cartón y empieza a dibujar todo!
+
+## el bicho
+
+Todo buen barrio tiene un animal mitológico que persigue a los nenes en las noches y alimenta sus pesadillas de verano. En la Sagrera, donde se celebra el primer punkamento, hay rumores de que corre libre el pollocaca, un ser mutante resultado de años de vertidos químicos del bar de la esquina en la alcantarilla de enfrente de la mercería.
+
+Nadie ha visto jamás al pollocaca, pero si los resultados de sus incursiones nocturnas a los cubos de basura de la plaza de la asamblea, los residuos radioactivos que distribuye por los jardines y las marcas de espolones en los retrovisores de los coches aparcados en doble fila.
+
+Nosotros hemos decidido darle cara ... el pollocaca, según nuestra cultura de punks de whatsapp, es así:
+
+![alt text](https://raw.githubusercontent.com/dcuartielles/punkamento/master/images/380.png "pollo")
+![alt text](https://raw.githubusercontent.com/dcuartielles/punkamento/master/images/527.png "caca")
+
+## credits
+
+* factory image from Wikipedia
+* Emojis taken from: http://rodrigopolo.com/ who took them from somewhere else
