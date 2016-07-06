@@ -16,4 +16,4 @@ El contenido se organizará en función de las decisiones de los participantes c
 * teclados hackeados: crea tu propio teclado de ordenador que haga lo que tu quieras. Te puede servir para abrir automágicamente tu programa preferido, escribir un mensaje secreto, o mover el ratón a lo loco por la pantalla y así asustar a tus amigos
 * medialab: crea películas explicando como se hacen las cosas que aprendes cada día en el punkamento, aprende a publicarlas en internet (con permiso pa/materno)
 * heladolab: crea tus propios sabores de helado y pasalos al resto de los amigos del punkamento
-* pinhole camera obscura: sabes como hacer para pintar los objetos reales como si hicieras una foto? Crea tu propia caja mágia con cartón y empieza a dibujar todo!
+* pinhole camera obscura: sabes como hacer para pintar los objetos reales como si hicieras una foto? Crea tu propia caja mágica con cartón y empieza a dibujar todo!
