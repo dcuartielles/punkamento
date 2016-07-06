@@ -27,6 +27,7 @@ Hemos preparado el anti-programa, no sabemos que pasará cada día, solo sabemos
 * medialab: crea películas explicando como se hacen las cosas que aprendes cada día en el punkamento, aprende a publicarlas en internet (con permiso pa/materno)
 * heladolab: crea tus propios sabores de helado y pasalos al resto de los amigos del punkamento
 * pinhole camera obscura: sabes como hacer para pintar los objetos reales como si hicieras una foto? Crea tu propia caja mágica con cartón y empieza a dibujar todo!
+* hazte un pin para la chupa: usa silicona caliente y leds para hacer un pin que brilla en la obscuridad
 
 ## el bicho
 
