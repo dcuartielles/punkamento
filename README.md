@@ -4,6 +4,17 @@ Campamento de verano liberario, auto-organizado y abierto orientado a niñ@s de 
 
 El contenido se organizará en función de las decisiones de los participantes cuyas edades van entre 8 y 10 años.
 
+## el bicho
+
+Todo buen barrio tiene un animal mitológico que persigue a los nenes en las noches y alimenta sus pesadillas de verano. En la Sagrera, donde se celebra el primer punkamento, hay rumores de que corre libre el pollocaca, un ser mutante resultado de años de vertidos químicos del bar de la esquina en la alcantarilla de enfrente de la mercería.
+
+Nadie ha visto jamás al pollocaca, pero si los resultados de sus incursiones nocturnas a los cubos de basura de la plaza de la asamblea, los residuos radioactivos que distribuye por los jardines y las marcas de espolones en los retrovisores de los coches aparcados en doble fila.
+
+Nosotros hemos decidido darle cara ... el pollocaca, según nuestra cultura de punks de whatsapp, es así:
+
+![alt text](https://raw.githubusercontent.com/dcuartielles/punkamento/master/images/380.png "pollo")
+![alt text](https://raw.githubusercontent.com/dcuartielles/punkamento/master/images/527.png "caca")
+
 ## anti-programa
 
 * haz tu propio cuaderno: documenta todo lo que hagas, el primer paso hacia la autonomía del conocimiento es ser dueño de lo que haces, si lo escribes ya es tuyo
